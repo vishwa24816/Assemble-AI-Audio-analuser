@@ -102,12 +102,6 @@ The custom MCP server provides the following tools:
 
 You can now ingest your audio files, retrieve relevant data, and query it all using the Cursor Agent or any MCP-compatible client. The agent can analyze, summarize, and answer questions about your audio just with a single query.
 
-## 📬 Stay Updated with Our Newsletter!
-
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
-
 ## Contribution
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests with your improvements.
